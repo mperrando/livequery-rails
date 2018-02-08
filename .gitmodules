@@ -1,0 +1,3 @@
+[submodule "vendor/assets/javascript"]
+	path = vendor/assets/javascript
+	url = https://github.com/mperrando/livequery.git
